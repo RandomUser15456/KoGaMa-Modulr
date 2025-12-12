@@ -30,17 +30,17 @@ This project is designed to run locally and **requires Node.js** to function.
     ```
 
 2.  **Install Dependencies:**
-    Run the included batch script to automatically install all necessary Node modules (dependencies) for the project.
+    Run the included batch script (`install.bat`) to automatically install all necessary Node modules (dependencies) for the project.
 
     ```bash
-    # Run the installation script
+    # Run the installation script to install Node modules
     install.bat
     ```
 
 ## ▶️ Running the Project
 
-Once the dependencies are installed, you can start the application. The project will be accessible via your web browser on **localhost**.
+To start the application and access it on your local machine, simply execute the `run.bat` file.
 
 ```bash
-# Command to run the project (assuming standard Node setup)
-npm start
+# Execute the batch file to start the project
+run.bat
