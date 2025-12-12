@@ -10,7 +10,7 @@ KoGaMa Modulr includes several features aimed at improving the game interface an
 * **Self Feed View:** Provides a dedicated, customized view for your personal activity feed.
 * **Custom UI:** A streamlined, custom-built user interface for better aesthetics and navigation.
 * **More Displayed Info:** Pages are enhanced to show more relevant information at a glance.
-* **Simplified Account Management:** Removes the need for constant email or username updating during routine operations.
+* **No Email Requirement for Username Change:** Eliminates the need for email to change username.
 * **DMs Chat Stamps:** Adds timestamps to direct messages for clearer communication tracking.
 
 ## 🛠️ Installation and Setup
@@ -44,3 +44,4 @@ To start the application and access it on your local machine, simply execute the
 ```bash
 # Execute the batch file to start the project
 run.bat
+
